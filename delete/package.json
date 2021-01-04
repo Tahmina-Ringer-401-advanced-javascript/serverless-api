@@ -1,0 +1,16 @@
+{
+  "name": "create",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dynamoose": "^2.5.0",
+    "uuid": "^8.3.2"
+  }
+}
