@@ -1,14 +1,13 @@
 # serverless-api
 
+Creat a single resource REST API using a domain model constructed by using AWS Cloud Services. Created basic API routes using AWS Lambda functions, Gatway API, Dynamoose/Dynamo DB.
+
 by Tahmina Ringer
 
 ## Links/Resources
 
-- [GitHub PR](https://github.com/tahminaringer/basic-auth/pull/1)
+- [GitHub PR](https://github.com/Tahmina-Ringer-401-advanced-javascript/serverless-api/pull/1)
 - [AWS](https://t9umf8dcx6.execute-api.us-west-2.amazonaws.com)
-
-Basic express server using modularization, middleware and tests.
-`npm i` express, MongoDB, Mongoose and jest.
 
 - **Endpoint**
   - used postman to confirmworking routes for GET, POST, PUT and DELETE
@@ -26,3 +25,7 @@ Basic express server using modularization, middleware and tests.
 
 - created with AWW - A Web Whiteboard
 - [UML](UML.jpg)
+
+## DynamoDB
+
+- [dynamoDB](https://us-west-2.console.aws.amazon.com/dynamodb/home?region=us-west-2#tables:selected=people;tab=items)
